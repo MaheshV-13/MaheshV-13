@@ -11,30 +11,45 @@
 # 💻 Softwares:
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 🌿
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+
+<div style="border: 1px solid #2f3542; border-radius: 10px; padding: 15px; width: 90%; max-width: 700px;">
 
 ### 🔹 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshV-13&layout=compact&langs_count=8&theme=dark&hide_border=false" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshV-13&layout=compact&langs_count=6&theme=dark&hide_border=false" />
+
+</div>
+
+<br/>
+
+
+<div style="border: 1px solid #2f3542; border-radius: 10px; padding: 15px; width: 90%; max-width: 700px; display: flex; justify-content: space-between; align-items: center;">
+
+<div align="left">
 
 ### 🔹 Mahesh's GitHub Stats
 
-Total Stars Earned: ⭐  
-Total Commits: 🔁  
-Total PRs: 🔧  
-Total Issues: ❗  
-Contributed to: 🌍  
+**Total Stars Earned:**  —  
+**Total Commits (2025):**  —  
+**Total PRs:**  —  
+**Total Issues:**  —  
+**Contributed to (last year):**  —  
 
-</td>
-</tr>
-</table>
+</div>
+
+<div align="right">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MaheshV-13&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" width="130">
+
+**C+**
+
+</div>
+
+</div>
 
 </div>
 
@@ -43,7 +58,6 @@ Contributed to: 🌍
 ![](https://github-readme-stats.vercel.app/api?username=MaheshV-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MaheshV-13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshV-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
