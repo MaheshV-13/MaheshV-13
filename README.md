@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+I'm Mahesh, a 2nd year Computer Science undergraduate at Universiti Teknologi Petronas.
+
 🔭 I’m currently working on exploring data analytics concepts through academic projects involving SQL, R programming, and statistical analysis.<br>👯 I’m looking to collaborate on beginner-friendly data, analytics, or learning-oriented projects where I can grow my skills and contribute as part of a team.<br>🤝 I’m looking for help with improving my practical experience in Python for data analysis, Power BI/Tableau, and real-world analytics workflows.<br>🌱 I’m currently learning SQL, Python fundamentals, R programming, database design, AI/ML basics, and essential tools like Jupyter Notebook and GitHub.<br>💬 Ask me about my journey as a Computer Science student, my academic projects in data and software development, or student tech leadership activities.<br>⚡ Fun fact I enjoy taking on new challenges, learning hands-on through projects, and I love seeing how data can tell meaningful stories.
 
 
