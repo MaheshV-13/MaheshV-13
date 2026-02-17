@@ -5,10 +5,15 @@
 I’m a second-year Computer Science undergraduate at Universiti Teknologi PETRONAS with a strong interest in data science and analytical problem-solving.
 
 🔍 I work on academic projects involving SQL, R, statistical analysis, and database design, building a solid foundation in data-driven thinking.
+
 🐍 My main focus is Python, while also exploring full-stack web development and cloud technologies like AWS to broaden my technical perspective.
+
 📚 Currently learning: SQL, Python, R, AI/ML fundamentals, and essential tools such as Jupyter Notebook and GitHub.
+
 🤝 Open to collaborating on learning-oriented projects where I can grow and contribute meaningfully.  
+
 💬 Ask me about my journey as a Computer Science student, my academic projects in software and data-related coursework, or student tech leadership experiences.  
+
 ⚡ Fun fact: I enjoy taking on new challenges, learning hands-on through projects, and discovering how structured data and logic can reveal meaningful insights.
 
 ## 🌐 Socials:
