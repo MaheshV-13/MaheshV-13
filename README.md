@@ -6,7 +6,7 @@ I’m a second-year Computer Science undergraduate at Universiti Teknologi PETRO
 
 🔍 I work on academic projects involving SQL, R, statistical analysis, and database design, building a solid foundation in data-driven thinking.
 
-🐍 My main focus is Python, while also exploring full-stack web development and cloud technologies like AWS to broaden my technical perspective.
+🐍 My main focus is Python, while also exploring full-stack web development, cloud technologies like AWS and embedded hardware and software to broaden my technical perspective.
 
 📚 Currently learning: SQL, Python, R, AI/ML fundamentals, and essential tools such as Jupyter Notebook and GitHub.
 
